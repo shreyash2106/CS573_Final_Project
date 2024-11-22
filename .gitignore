@@ -9,6 +9,7 @@ __pycache__/
 # User defined
 moodfm
 datasets/*
+**/api_key*
 
 # Distribution / packaging
 .Python
